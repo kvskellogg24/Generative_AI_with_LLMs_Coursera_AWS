@@ -26,3 +26,7 @@ Developers who have a good foundational understanding of how LLMs work, as well 
 This is an intermediate course, so you should have some experience coding in Python to get the most out of it. You should also be familiar with the basics of machine learning, such as supervised and unsupervised learning, loss functions, and splitting data into training, validation, and test sets. If you have taken the Machine Learning Specialization or Deep Learning Specialization from DeepLearning.AI, you’ll be ready to take this course and dive deeper into the fundamentals of generative AI.
 
 
+
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/46ba62c7-1ad7-48b5-b7de-d2371b9c16f4)
+
+
