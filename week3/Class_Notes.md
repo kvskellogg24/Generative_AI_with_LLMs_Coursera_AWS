@@ -50,6 +50,21 @@ Constitutional AI - Anthropic
 ![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/9d788e4c-f6e0-4977-86ce-3764c70581a5)
 
 
+**Lifecycle**
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/2d0a757e-da22-467e-bbbd-ab31994d7cf8)
+
+**Retrieval Augmented Generation**
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/d2f65a96-d398-4db7-89fd-f57c26d604be)
+
+
+Facebook Paper
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/0b4c965c-2418-421b-9a46-b02bc2ef7910)
+
+
+
+
+
+
 
 
 
