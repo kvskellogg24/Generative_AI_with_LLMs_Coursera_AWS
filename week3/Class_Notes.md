@@ -36,6 +36,21 @@ Constitutional AI - Anthropic
 ![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/88384969-0ae4-4f62-9533-6b2917afd8e2)
 
 
+**LLM Optimisation**
+
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/c3b0fdff-5153-4199-9b67-ba6be58d944f)
+
+
+**Distillation**
+
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/4e414fb1-6822-4950-b959-ca001be93090)
+
+**Pruning**
+
+![image](https://github.com/kvskellogg24/Generative_AI_with_LLMs_Coursera_AWS/assets/155591527/9d788e4c-f6e0-4977-86ce-3764c70581a5)
+
+
+
 
 
 
